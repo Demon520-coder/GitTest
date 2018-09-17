@@ -11,6 +11,7 @@ namespace GitStudy
         static void Main(string[] args)
         {
             //122
+            int a = 12;
         }
     }
 }
